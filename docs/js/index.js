@@ -1,5 +1,6 @@
 
 function push() {
-  document.getElementById('button').style.color="red";
-  alert('pushed')
+  document.getElementById("button").style.background-color="red";
+  alert("pushed");
+  console.log("pushed");
 }
